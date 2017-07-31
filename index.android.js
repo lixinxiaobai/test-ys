@@ -19,7 +19,7 @@ export default class test extends Component {
     ys.enableP2P(true);
     ys.initLib('d7b05a4a31af4c28b7fa8f8f3864a2cb', '', (result) => {
       console.log(`init result ${result}`);
-      ys.setAccessToken('at.c4f5ofeabxv8ethw8bdxp1806n4f4nf7-2o8mb8082e-10g664i-y8n1j87yq');
+      ys.setAccessToken('at.8aazsl4i6ybf5tqsd31mht2od00070k3-2a26kz1i6b-1q820ds-ehwt0mjgb');
     });
   }
   componentDidMount() {
